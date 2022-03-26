@@ -20,14 +20,10 @@
 
 ## Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="40px" src="./README/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="40px" src="./README/html5.png" />
-<img align="left" alt="CSS3" width="40px" src="./README/css.png" />
-<img align="left" alt="MySQL" width="40px" src="./README/sql.png" />
 <img align="left" alt="Git" width="40px" src="./README/git.png" />
 <img align="left" alt="GitHub" width="40px" src="./README/github.png" />
 <img align="left" alt="Terminal" width="40px" src="./README/terminal.png" />
 <img align="left" alt="Python" width="40px" src="./README/python.jpg" />
-<img align="left" alt="DJango" width="40px" src="./README/dj.webp" />
 <br />
 
 
